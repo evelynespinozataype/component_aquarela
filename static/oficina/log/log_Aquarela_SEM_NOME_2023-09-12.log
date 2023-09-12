@@ -1,0 +1,11 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-09-12;09:36:01;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: desenho;Fez login e iniciou os cookies com (96sdMZ) (evy) e (panda);
+2023-09-12;09:36:01;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-09-12;09:36:03;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;09:38:34;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;09:51:31;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;10:00:18;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;10:09:00;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;10:09:36;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;10:10:50;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-09-12;10:18:52;Aquarela_SEM_NOME;96sdMZ;web;;evy;panda;Interface: socket.io;saiu da sala ou perdeu conexao;

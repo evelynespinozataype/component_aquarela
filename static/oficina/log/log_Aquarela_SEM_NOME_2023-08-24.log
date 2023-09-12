@@ -1,0 +1,122 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-08-24;12:22:31;Aquarela_SEM_NOME;48ydEW;web;;evy;coelho;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-08-24;12:22:34;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: desenho;Fez login e iniciou os cookies com (08eqDB) (evy) e (coelho);
+2023-08-24;12:22:34;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;12:22:35;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;12:22:52;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;12:22:52;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;12:22:52;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_12h_22m_52s_08eqDB_evy.jpg
+2023-08-24;12:48:18;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;12:48:18;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;12:48:18;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_12h_48m_18s_08eqDB_evy.jpg
+2023-08-24;12:49:00;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;12:49:13;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;12:49:13;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;12:49:14;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;12:49:21;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;12:49:21;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;12:49:21;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_12h_49m_21s_08eqDB_evy.jpg
+2023-08-24;12:50:59;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;12:50:59;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;12:50:59;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_12h_50m_59s_08eqDB_evy.jpg
+2023-08-24;12:53:01;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;12:53:01;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;12:53:01;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_12h_53m_01s_08eqDB_evy.jpg
+2023-08-24;14:19:49;Aquarela_SEM_NOME;08eqDB;web;;evy;coelho;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-08-24;14:19:55;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: desenho;Fez login e iniciou os cookies com (96ggQS) (evy) e (coelho);
+2023-08-24;14:19:55;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:19:56;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:20:20;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:20:20;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:20:20;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_20m_20s_96ggQS_evy.jpg
+2023-08-24;14:21:58;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;14:21:58;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:22:00;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:22:08;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:22:08;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:22:08;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_22m_08s_96ggQS_evy.jpg
+2023-08-24;14:23:06;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-08-24;14:23:44;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Fez login e iniciou os cookies com (74vfGU) (dani) e (vaca);
+2023-08-24;14:23:44;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:23:46;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:23:49;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:23:49;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:23:49;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_23m_49s_96ggQS_evy.jpg
+2023-08-24;14:37:45;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:37:45;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:37:45;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_37m_45s_96ggQS_evy.jpg
+2023-08-24;14:41:42;Aquarela_SEM_NOME;96ggQS;web;;evy;coelho;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;14:41:42;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:41:43;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:41:47;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:41:47;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:41:47;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_41m_47s_74vfGU_dani.jpg
+2023-08-24;14:44:00;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-08-24;14:44:00;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-08-24;14:44:00;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_08_24_14h_44m_00s_74vfGU_dani.jpg
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_08_24_14h_45m_24s_74vfGU_dani.jpg
+2023-08-24;14:45:24;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_08_24_14h_45m_24s_74vfGU_dani.jpg
+2023-08-24;14:46:14;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:46:14;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:46:14;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_46m_14s_74vfGU_dani.jpg
+2023-08-24;14:47:55;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:47:55;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:47:59;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;14:47:59;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:48:01;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:48:05;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:48:05;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:48:05;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_48m_05s_74vfGU_dani.jpg
+2023-08-24;14:48:22;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-08-24;14:48:22;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-08-24;14:48:23;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_08_24_14h_48m_23s_74vfGU_dani.jpg
+2023-08-24;14:52:01;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:52:01;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:52:09;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;14:52:09;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;14:52:10;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;14:52:13;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-08-24;14:52:13;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-08-24;14:52:13;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_08_24_14h_52m_13s_74vfGU_dani.jpg
+2023-08-24;14:52:33;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;14:56:32;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-08-24;14:56:32;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-08-24;14:56:32;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_08_24_14h_56m_32s_74vfGU_dani.jpg
+2023-08-24;14:56:46;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-08-24;14:56:46;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-08-24;14:56:46;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_08_24_14h_56m_46s_74vfGU_dani.jpg
+2023-08-24;15:05:56;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;15:05:57;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;15:05:58;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:06:04;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-08-24;15:06:04;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-08-24;15:06:04;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_08_24_15h_06m_04s_74vfGU_dani.jpg
+2023-08-24;15:07:18;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;15:07:18;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;15:07:20;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:07:23;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-08-24;15:07:23;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-08-24;15:07:23;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_08_24_15h_07m_23s_74vfGU_dani.jpg
+2023-08-24;15:07:34;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-08-24;15:07:34;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-08-24;15:07:34;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_08_24_15h_07m_34s_74vfGU_dani.jpg
+2023-08-24;15:16:00;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:16:03;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:16:04;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;15:16:04;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;15:16:05;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:16:18;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;15:16:19;Aquarela_SEM_NOME;74vfGU;web;;dani;vaca;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-08-24;15:16:25;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: desenho;Fez login e iniciou os cookies com (12qxUN) (dani) e (panda);
+2023-08-24;15:16:25;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;15:16:26;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:17:07;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-08-24;15:17:12;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-08-24;15:17:12;Aquarela_SEM_NOME;12qxUN;web;;dani;panda;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-08-24;15:17:17;Aquarela_SEM_NOME;06uwDW;web;;dani;guaxinim;Interface: desenho;Fez login e iniciou os cookies com (06uwDW) (dani) e (guaxinim);
+2023-08-24;15:17:17;Aquarela_SEM_NOME;06uwDW;web;;dani;guaxinim;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-08-24;15:17:19;Aquarela_SEM_NOME;06uwDW;web;;dani;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
