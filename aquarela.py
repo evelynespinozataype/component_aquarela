@@ -386,36 +386,32 @@ def coracao(data):
 			print(pessoa['coisa'])
 			oficina.gravar_log(pessoa,pessoa['local'],data['coisa'],data['bpm'])
 
-#Function to represent the emotional state
-#def component_controller(flag_brain_wave, ):
-#	print('entrando controller :' + flag_brain_wave + flag_heart_rate)
-
-#Function to get emotional state from smartwatch
-#heart_rate = 1
-@socket_io.on('component_heart_rate')
-def component_heart_rate(heart_rate_flag):
-    global flag_heart_rate
-    flag_heart_rate = heart_rate_flag
-    print('Heart rate logged:', flag_heart_rate)
-
-#Function to get emotional state from EEG
-#brain_wave = 82
-
-@socket_io.on("component_brain_wave")
+#[Evy] Function to get from remote_server and send emotional state to client
+@socket_io.on('join_component_brainwave')
 def component_brain_wave(data):
-	global flag_brain_wave
-	flag_brain_wave = data
-	if data == 1:
-		data = 82	
-	else:
-		data = 84
-	print('Brain wave logged:', data)
-	feedbackemotional()
+	print('Brain Wave logged:', data)
+	emit('emotion_brainwave',data,json=True,to=oficina.get_sala(),namespace='/desenho')
 
-#@socket_io.on('feedback-emotional',namespace='/desenho')
-def feedbackemotional():
-	print('feedback-sonido')
-	emit('feedback-sonido', flag_brain_wave)
+@socket_io.on('join_component_heartrate')
+def component_brain_wave(data):
+	print('Heart Rate logged:', data)
+	emit('emotion_heartrate',data,json=True,to=oficina.get_sala(),namespace='/desenho')
+
+#@socket_io.on("component_brain_wave")
+#def component_brain_wave(data):
+#	global flag_brain_wave
+#	flag_brain_wave = data
+#	if data == 1:
+#		data = 82	
+#	else:
+#		data = 84
+#	print('Brain wave logged:', data)
+#	feedbackemotional(data)
+
+#@socket_io.on('feedback-emotional-eeg')
+#def feedbackemotional(data):
+#	print('feedback-sound')
+#	emit('feedback-sound', data)
 
 if __name__=='__main__':
  	#socket_io.run(app, host='0.0.0.0', port=80, debug=True)

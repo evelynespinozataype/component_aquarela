@@ -19,6 +19,37 @@ socket.on('coracao_aquarela', coracao =>{
   coracaoBatendo(coracao.coisa, parseInt(coracao.bpm));
 });
 
+//[Evy] connection from server to webbrouser to trigger the animation and sound
+socket.on('emotion_brainwave', data =>{
+  if (data == 1){
+    happy_cod = 82
+  }
+  if (data == 0){
+    sad_cod = 84
+  }
+  print("COD Emotion", happy_cod);
+  console.log("COD Emotion",happy_cod);
+  feedbackQRCODE(happy_cod)
+  sonidoEstadoEmocional(happy_cod);
+});
+
+//[Evy] funcion de sonido emocional
+const sonidoEstadoEmocional = (data) => {
+  print(data)
+  console.log("COD Emotion",data)
+  if (data == 82){
+    var laudio = new Audio;
+    laudio.src = "/static/audio/emo_happy.mp3";
+    laudio.play();
+  }
+  if (data == 84){
+    var laudio = new Audio;
+    laudio.src = "/static/audio/emo_sad.mp3";
+    laudio.play();
+  }
+  
+}
+
 //Animação feedback individual
 const emoji = {
   "01":"sol",
@@ -83,29 +114,6 @@ atualizaPerfilParticipante = data => {
     }
   }, feedback_duration);
 }
-
-//[Evy] funcion de sonido emocional
-const sonidoEstadoEmocional = (data) => {
-  print(data)
-  console.log("COD Emotion",data)
-  if (data == 82){
-    var laudio = new Audio;
-    laudio.src = "/static/audio/emo_happy.mp3";
-    laudio.play();
-  }
-  if (data == 84){
-    var laudio = new Audio;
-    laudio.src = "/static/audio/emo_sad.mp3";
-    laudio.play();
-  }
-  
-}
-
-socket.on('feedback-sonido', ()=>{
-  data = 222
-  print("feedback-sonido",data)
-  console.log("COD Emotion",data)  
-});
 
 socket.on('feedback-afetivo-social', data =>  {
   
