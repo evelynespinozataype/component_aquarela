@@ -397,6 +397,12 @@ def component_brain_wave(data):
 	print('Heart Rate logged:', data)
 	emit('emotion_heartrate',data,json=True,to=oficina.get_sala(),namespace='/desenho')
 
+@socket_io.on('join_component_parrot')
+def component_parrot(data):
+	print('parrot:', data)
+	print("--SocketIo Remoto Conectado--")
+	emit('join_component_aquarela',data)
+
 #@socket_io.on("component_brain_wave")
 #def component_brain_wave(data):
 #	global flag_brain_wave
