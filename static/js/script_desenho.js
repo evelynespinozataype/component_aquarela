@@ -20,7 +20,7 @@ socket.on('coracao_aquarela', coracao =>{
 });
 
 //[Evy] connection from server to webbrouser to trigger the animation and sound
-socket.on('emotion_brainwave', data =>{
+socket.on('send_emotion_brainwave', data =>{
   if (data == 1){
     happy_cod = 82
   }
@@ -41,11 +41,13 @@ const sonidoEstadoEmocional = (data) => {
     var laudio = new Audio;
     laudio.src = "/static/audio/emo_happy.mp3";
     laudio.play();
+    socket.emit('feedback_parrot', data);
   }
   if (data == 84){
     var laudio = new Audio;
     laudio.src = "/static/audio/emo_sad.mp3";
     laudio.play();
+    socket.emit('feedback_parrot', data);
   }
   
 }
@@ -91,7 +93,7 @@ feedbackQRCODE = index =>{
 var timeRemover =  null;
 timeFeedback =  null;
 atualizaPerfilParticipante = data => {
-  sonidoEstadoEmocional(data); //funcion de sonido emocional [evy]
+  sonidoEstadoEmocional(data); //funcion de sonido emocional [Evy]
   if (document.getElementById("emoji-afetivo-perfil"))
   {
     document.getElementById("emoji-afetivo-perfil").remove();

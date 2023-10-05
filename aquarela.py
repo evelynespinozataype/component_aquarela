@@ -386,22 +386,26 @@ def coracao(data):
 			print(pessoa['coisa'])
 			oficina.gravar_log(pessoa,pessoa['local'],data['coisa'],data['bpm'])
 
-#[Evy] Function to get from remote_server and send emotional state to client
 @socket_io.on('join_component_brainwave')
 def component_brain_wave(data):
 	print('Brain Wave logged:', data)
-	emit('emotion_brainwave',data,json=True,to=oficina.get_sala(),namespace='/desenho')
+	emit('send_emotion_brainwave',data,json=True,to=oficina.get_sala(),namespace='/desenho')
 
 @socket_io.on('join_component_heartrate')
 def component_brain_wave(data):
 	print('Heart Rate logged:', data)
 	emit('emotion_heartrate',data,json=True,to=oficina.get_sala(),namespace='/desenho')
 
-@socket_io.on('join_component_parrot')
+@socket_io.on('join_component_parrot', namespace='/remote')
 def component_parrot(data):
 	print('parrot:', data)
 	print("--SocketIo Remoto Conectado--")
-	emit('join_component_aquarela',data)
+	emit('join_component_aquarela',data, namespace='/remote')
+
+@socket_io.on('feedback_parrot',namespace='/desenho')
+def send_component_parrot(data):
+	print('SOnido parrot:', data)
+	socket_io.emit('join_component_aquarela',data, namespace='/remote')
 
 #@socket_io.on("component_brain_wave")
 #def component_brain_wave(data):
@@ -420,5 +424,4 @@ def component_parrot(data):
 #	emit('feedback-sound', data)
 
 if __name__=='__main__':
- 	#socket_io.run(app, host='0.0.0.0', port=80, debug=True)
 	socket_io.run(app, host='0.0.0.0', port=3000, debug=True)
