@@ -1,0 +1,7 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-10-09;12:17:48;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: desenho;Fez login e iniciou os cookies com (23beLX) (evy) e (panda);
+2023-10-09;12:17:49;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-10-09;12:17:50;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-10-09;13:05:17;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-10-09;14:32:55;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-10-09;15:43:01;Aquarela_SEM_NOME;23beLX;web;;evy;panda;Interface: socket.io;saiu da sala ou perdeu conexao;

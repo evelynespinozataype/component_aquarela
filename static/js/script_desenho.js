@@ -33,23 +33,38 @@ socket.on('send_emotion_brainwave', data =>{
   sonidoEstadoEmocional(happy_cod);
 });
 
+const feedback_interaction_parrot = (data) =>{
+  socket.emit('feedback_parrot_interaction', data);
+}
+
 //[Evy] funcion de sonido emocional
 const sonidoEstadoEmocional = (data) => {
   print(data)
   console.log("COD Emotion",data)
   if (data == 82){
     var laudio = new Audio;
-    laudio.src = "/static/audio/emo_happy.mp3";
+    laudio.src = "/static/audio/emotion_baby_happy.mp3";
     laudio.play();
     socket.emit('feedback_parrot', data);
   }
   if (data == 84){
     var laudio = new Audio;
-    laudio.src = "/static/audio/emo_sad.mp3";
+    laudio.src = "/static/audio/emotion_baby_crying.mp3";
     laudio.play();
     socket.emit('feedback_parrot', data);
   }
-  
+  if (data == 81){
+    var laudio = new Audio;
+    laudio.src = "/static/audio/emotion_baby_fear.mp3";
+    laudio.play();
+    socket.emit('feedback_parrot', data);
+  }
+  if (data == 83){
+    var laudio = new Audio;
+    laudio.src = "/static/audio/emotion_baby_anger.mp3";
+    laudio.play();
+    socket.emit('feedback_parrot', data);
+  }
 }
 
 //Animação feedback individual
@@ -69,6 +84,7 @@ const emoji = {
 }
 
 feedbackQRCODE = index =>{
+  //print("feedbackQRCODE", index)
   if (index > 80){
       atualizaPerfilParticipante(index);
   }
@@ -383,6 +399,8 @@ let feedback_Aquarela = {
 }
 
 socket.on('feedback-social', msg =>{
+  console.log("AQUIIII :", parseInt(msg.feedback))
+  feedback_interaction_parrot(parseInt(msg.feedback))
   if(parseInt(msg.feedback) < 80){
     if (eu_logado.id != msg.participante.id) {
       let feedback_element = document.getElementById(msg.participante.id + '-feedback-' + msg.feedback);

@@ -1,0 +1,189 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-11-08;07:22:01;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: desenho;Fez login e iniciou os cookies com (39jwHC) (Evy) e (hipopotamo);
+2023-11-08;07:22:01;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;07:22:03;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;07:22:18;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-11-08;07:22:18;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-11-08;07:22:18;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_11_08_07h_22m_18s_39jwHC_Evy.jpg
+2023-11-08;09:29:38;Aquarela_SEM_NOME;39jwHC;web;;Evy;hipopotamo;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-08;09:29:41;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Fez login e iniciou os cookies com (90kkVV) (Evy) e (hipopotamo);
+2023-11-08;09:29:41;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;09:29:43;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;09:31:15;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-11-08;09:31:15;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-11-08;09:31:15;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_11_08_09h_31m_15s_90kkVV_Evy.jpg
+2023-11-08;09:31:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;09:31:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;09:31:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_09h_31m_30s_90kkVV_Evy.jpg
+2023-11-08;09:31:41;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-11-08;09:31:41;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-11-08;09:31:41;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_11_08_09h_31m_41s_90kkVV_Evy.jpg
+2023-11-08;09:31:54;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-11-08;09:31:54;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-11-08;09:31:54;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_11_08_09h_31m_54s_90kkVV_Evy.jpg
+2023-11-08;09:32:18;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;09:32:18;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;09:32:18;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_09h_32m_18s_90kkVV_Evy.jpg
+2023-11-08;09:32:28;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-11-08;09:32:28;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-11-08;09:32:28;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_11_08_09h_32m_28s_90kkVV_Evy.jpg
+2023-11-08;09:45:28;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;09:46:02;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;09:46:02;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;09:46:03;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;09:46:04;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-11-08;09:46:04;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-11-08;09:46:04;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_11_08_09h_46m_04s_90kkVV_Evy.jpg
+2023-11-08;09:46:12;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;09:46:12;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;09:46:12;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_09h_46m_12s_90kkVV_Evy.jpg
+2023-11-08;09:46:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-11-08;09:46:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-11-08;09:46:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_11_08_09h_46m_20s_90kkVV_Evy.jpg
+2023-11-08;09:46:31;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-11-08;09:46:31;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-11-08;09:46:31;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_11_08_09h_46m_31s_90kkVV_Evy.jpg
+2023-11-08;09:46:51;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-11-08;09:46:51;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-11-08;09:46:51;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_11_08_09h_46m_51s_90kkVV_Evy.jpg
+2023-11-08;10:12:55;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:14:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-11-08;10:14:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-11-08;10:14:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_11_08_10h_14m_06s_90kkVV_Evy.jpg
+2023-11-08;10:17:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;10:17:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;10:17:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_10h_17m_20s_90kkVV_Evy.jpg
+2023-11-08;10:17:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;10:17:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;10:17:30;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_10h_17m_30s_90kkVV_Evy.jpg
+2023-11-08;10:18:37;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;10:18:37;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;10:18:37;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_10h_18m_37s_90kkVV_Evy.jpg
+2023-11-08;10:18:44;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 03;tinta
+2023-11-08;10:18:44;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 2;tinta
+2023-11-08;10:18:44;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 03;Aquarela_SEM_NOME_2023_11_08_10h_18m_44s_90kkVV_Evy.jpg
+2023-11-08;10:18:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;10:18:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;10:18:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_10h_18m_50s_90kkVV_Evy.jpg
+2023-11-08;10:25:15;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:25:17;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;10:25:17;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;10:25:19;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:25:23;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;10:25:23;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;10:25:23;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_10h_25m_23s_90kkVV_Evy.jpg
+2023-11-08;10:26:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:26:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:26:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_26m_06s_90kkVV_Evy.jpg
+2023-11-08;10:36:19;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:36:31;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;10:36:31;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;10:36:33;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:36:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;10:36:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;10:36:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_10h_36m_36s_90kkVV_Evy.jpg
+2023-11-08;10:37:34;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:37:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;10:37:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;10:37:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_10h_37m_36s_90kkVV_Evy.jpg
+2023-11-08;10:44:27;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:44:27;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;10:44:27;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;10:44:29;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:44:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;10:44:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;10:44:50;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_10h_44m_50s_90kkVV_Evy.jpg
+2023-11-08;10:45:13;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:45:13;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Votação para a estrofe 3;barco
+2023-11-08;10:45:13;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_45m_13s_90kkVV_Evy.jpg
+2023-11-08;10:45:20;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:51:36;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:51:42;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:51:42;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:51:42;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_51m_42s_90kkVV_Evy.jpg
+2023-11-08;10:53:43;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:53:46;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:53:46;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:53:46;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_53m_46s_90kkVV_Evy.jpg
+2023-11-08;10:55:21;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:55:26;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:55:26;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:55:26;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_55m_26s_90kkVV_Evy.jpg
+2023-11-08;10:56:57;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:57:02;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;10:57:02;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;10:57:04;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;10:57:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;10:57:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;10:57:06;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_10h_57m_06s_90kkVV_Evy.jpg
+2023-11-08;12:18:01;Aquarela_SEM_NOME;90kkVV;web;;Evy;hipopotamo;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-08;12:18:05;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: desenho;Fez login e iniciou os cookies com (58grLD) (Evy) e (hipopotamo);
+2023-11-08;12:18:05;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;12:18:07;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;12:19:06;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 84;triste
+2023-11-08;12:19:06;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico84;triste
+2023-11-08;12:19:06;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 84;Aquarela_SEM_NOME_2023_11_08_12h_19m_06s_58grLD_Evy.jpg
+2023-11-08;12:19:06;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Enviou para o ParrotRobot o valor de 84;triste
+2023-11-08;12:19:45;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;12:19:45;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;12:19:45;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_12h_19m_45s_58grLD_Evy.jpg
+2023-11-08;14:55:43;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;14:56:14;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;14:56:14;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;14:56:16;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;14:56:34;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 04;passaro
+2023-11-08;14:56:34;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 2;passaro
+2023-11-08;14:56:34;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 04;Aquarela_SEM_NOME_2023_11_08_14h_56m_34s_58grLD_Evy.jpg
+2023-11-08;14:56:50;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 04;passaro
+2023-11-08;14:56:50;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Votação para a estrofe 2;passaro
+2023-11-08;14:56:50;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 04;Aquarela_SEM_NOME_2023_11_08_14h_56m_50s_58grLD_Evy.jpg
+2023-11-08;14:57:07;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 03;tinta
+2023-11-08;14:57:07;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 2;tinta
+2023-11-08;14:57:07;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 03;Aquarela_SEM_NOME_2023_11_08_14h_57m_07s_58grLD_Evy.jpg
+2023-11-08;14:57:39;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 02;castelo_qr
+2023-11-08;14:57:39;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 1;castelo_qr
+2023-11-08;14:57:39;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 02;Aquarela_SEM_NOME_2023_11_08_14h_57m_39s_58grLD_Evy.jpg
+2023-11-08;14:57:54;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;14:57:54;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Votação para a estrofe 4;aviao
+2023-11-08;14:57:54;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_14h_57m_54s_58grLD_Evy.jpg
+2023-11-08;14:58:08;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;14:58:12;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 02;castelo_qr
+2023-11-08;14:58:12;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Votação para a estrofe 1;castelo_qr
+2023-11-08;14:58:12;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 02;Aquarela_SEM_NOME_2023_11_08_14h_58m_12s_58grLD_Evy.jpg
+2023-11-08;14:58:24;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 01;sol
+2023-11-08;14:58:24;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Votação para a estrofe 1;sol
+2023-11-08;14:58:24;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 01;Aquarela_SEM_NOME_2023_11_08_14h_58m_24s_58grLD_Evy.jpg
+2023-11-08;14:58:38;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: Sistema;Inicia estrofe 1;castelo_qr
+2023-11-08;15:52:30;Aquarela_SEM_NOME;58grLD;web;;Evy;hipopotamo;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;15:59:29;Aquarela_SEM_NOME;;;;;;Interface: desenho;Tentativa de acesso direto a URL /desenho sem login;
+2023-11-08;16:13:54;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: desenho;Fez login e iniciou os cookies com (11sbDC) (Gio) e (hipopotamo);
+2023-11-08;16:13:54;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;16:13:56;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;16:14:11;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 06;aviao
+2023-11-08;16:14:11;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Inicia estrofe 4;aviao
+2023-11-08;16:14:11;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 06;Aquarela_SEM_NOME_2023_11_08_16h_14m_11s_11sbDC_Gio.jpg
+2023-11-08;16:15:15;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;16:15:15;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;16:15:15;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_16h_15m_15s_11sbDC_Gio.jpg
+2023-11-08;16:15:40;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 03;tinta
+2023-11-08;16:15:40;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Votação para a estrofe 2;tinta
+2023-11-08;16:15:40;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 03;Aquarela_SEM_NOME_2023_11_08_16h_15m_40s_11sbDC_Gio.jpg
+2023-11-08;16:15:43;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Inicia estrofe 2;tinta
+2023-11-08;16:16:17;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 05;barco
+2023-11-08;16:16:17;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Inicia estrofe 3;barco
+2023-11-08;16:16:17;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 05;Aquarela_SEM_NOME_2023_11_08_16h_16m_17s_11sbDC_Gio.jpg
+2023-11-08;16:16:48;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 81;medo
+2023-11-08;16:16:48;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico81;medo
+2023-11-08;16:16:48;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 81;Aquarela_SEM_NOME_2023_11_08_16h_16m_48s_11sbDC_Gio.jpg
+2023-11-08;16:16:48;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Enviou para o ParrotRobot o valor de 81;medo
+2023-11-08;16:17:59;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-08;16:17:59;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-08;16:17:59;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_08_16h_17m_59s_11sbDC_Gio.jpg
+2023-11-08;16:17:59;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: Sistema;Enviou para o ParrotRobot o valor de 83;raiva
+2023-11-08;16:58:03;Aquarela_SEM_NOME;11sbDC;web;;Gio;hipopotamo;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-08;16:58:07;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: desenho;Fez login e iniciou os cookies com (24gcCU) (Gio) e (gato);
+2023-11-08;16:58:07;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-08;16:58:09;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;17:12:02;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-08;17:34:58;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-08;17:50:04;Aquarela_SEM_NOME;24gcCU;web;;Gio;gato;Interface: socket.io;saiu da sala ou perdeu conexao;

@@ -1,0 +1,8 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-10-10;10:16:20;Aquarela_SEM_NOME;;;;;;Interface: desenho;Tentativa de acesso direto a URL /desenho sem login;
+2023-10-10;10:16:25;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: desenho;Fez login e iniciou os cookies com (61gcKL) (evy) e (gato);
+2023-10-10;10:16:25;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-10-10;10:16:26;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-10-10;11:53:06;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-10-10;12:26:01;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-10-10;12:36:27;Aquarela_SEM_NOME;61gcKL;web;;evy;gato;Interface: socket.io;saiu da sala ou perdeu conexao;
