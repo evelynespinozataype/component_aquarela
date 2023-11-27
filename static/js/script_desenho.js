@@ -27,8 +27,8 @@ socket.on('send_emotion_brainwave', data =>{
   if (data == 0){
     sad_cod = 84
   }
-  print("COD Emotion", happy_cod);
-  console.log("COD Emotion",happy_cod);
+  print("Brain Wave COD Emotion", happy_cod);
+  console.log("Brain Wave COD Emotion",happy_cod);
   feedbackQRCODE(happy_cod)
   sonidoEstadoEmocional(happy_cod);
 });

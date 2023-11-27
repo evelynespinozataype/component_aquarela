@@ -1,0 +1,60 @@
+Data;Hora;Oficina;ID Participante;Local;Coisa;Nome Participante;Avatar;Interface;Descrição;Objeto
+2023-11-27;16:40:26;Aquarela_SEM_NOME;29ieKG;web;;gio;gato;Interface: desenho;Fez login e iniciou os cookies com (29ieKG) (gio) e (gato);
+2023-11-27;16:40:26;Aquarela_SEM_NOME;29ieKG;web;;gio;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:40:27;Aquarela_SEM_NOME;29ieKG;web;;gio;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:40:35;Aquarela_SEM_NOME;29ieKG;web;;gio;gato;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:40:40;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: desenho;Fez login e iniciou os cookies com (56vmMZ) (dan) e (macaco);
+2023-11-27;16:40:40;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:40:42;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:41:45;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:41:45;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:05;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:07;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:24;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:42:24;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:42:26;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:30;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:42:30;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:42:32;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:39;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:42:39;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:42:42;Aquarela_SEM_NOME;32vgKE;web;;dan;gato;Interface: desenho;Fez login e iniciou os cookies com (32vgKE) (dan) e (gato);
+2023-11-27;16:42:42;Aquarela_SEM_NOME;32vgKE;web;;dan;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:42:43;Aquarela_SEM_NOME;32vgKE;web;;dan;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:42:49;Aquarela_SEM_NOME;56vmMZ;web;;dan;macaco;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:42:49;Aquarela_SEM_NOME;32vgKE;web;;dan;gato;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:42:55;Aquarela_SEM_NOME;52xzIN;web;;gio;gato;Interface: desenho;Fez login e iniciou os cookies com (52xzIN) (gio) e (gato);
+2023-11-27;16:42:55;Aquarela_SEM_NOME;52xzIN;web;;gio;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:42:56;Aquarela_SEM_NOME;52xzIN;web;;gio;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:44:58;Aquarela_SEM_NOME;32vgKE;web;;dan;gato;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:44:58;Aquarela_SEM_NOME;52xzIN;web;;gio;gato;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:45:02;Aquarela_SEM_NOME;93qtTE;web;;gio;gato;Interface: desenho;Fez login e iniciou os cookies com (93qtTE) (gio) e (gato);
+2023-11-27;16:45:02;Aquarela_SEM_NOME;93qtTE;web;;gio;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:45:04;Aquarela_SEM_NOME;93qtTE;web;;gio;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:45:06;Aquarela_SEM_NOME;93qtTE;web;;gio;gato;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:45:06;Aquarela_SEM_NOME;52xzIN;web;;gio;gato;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:45:15;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: desenho;Fez login e iniciou os cookies com (39dmZQ) (ban) e (guaxinim);
+2023-11-27;16:45:15;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:45:16;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:55:19;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:55:19;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:55:35;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:55:37;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:56:03;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:56:03;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:56:06;Aquarela_SEM_NOME;49txLB;web;;ban;gato;Interface: desenho;Fez login e iniciou os cookies com (49txLB) (ban) e (gato);
+2023-11-27;16:56:06;Aquarela_SEM_NOME;49txLB;web;;ban;gato;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:56:08;Aquarela_SEM_NOME;49txLB;web;;ban;gato;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:56:13;Aquarela_SEM_NOME;39dmZQ;web;;ban;guaxinim;Interface: socket.io;saiu da sala ou perdeu conexao;
+2023-11-27;16:56:13;Aquarela_SEM_NOME;49txLB;web;;ban;gato;Interface: login;Retornou a primeira página para alterar nome ou avatar;
+2023-11-27;16:56:18;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: desenho;Fez login e iniciou os cookies com (23giKD) (gio) e (panda);
+2023-11-27;16:56:18;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: desenho;Reconectou - Atualização de página - F5;
+2023-11-27;16:56:19;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: socket.io;entrou na sala - Registrou participante no socket.io;
+2023-11-27;16:56:28;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: camera;Sistema escaneou o QR Code de Código 82;feliz
+2023-11-27;16:56:28;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico82;feliz
+2023-11-27;16:56:28;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: folha desenho;Participante mostrou qr-code 82;Aquarela_SEM_NOME_2023_11_27_16h_56m_28s_23giKD_gio.jpg
+2023-11-27;16:56:28;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: Sistema;Enviou para o ParrotRobot o valor de 82;feliz
+2023-11-27;16:57:34;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: camera;Sistema escaneou o QR Code de Código 83;raiva
+2023-11-27;16:57:34;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: Sistema;Sistema mostrou emoção e enviou para o Físico83;raiva
+2023-11-27;16:57:34;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: Sistema;Enviou para o ParrotRobot o valor de 83;raiva
+2023-11-27;16:57:34;Aquarela_SEM_NOME;23giKD;web;;gio;panda;Interface: folha desenho;Participante mostrou qr-code 83;Aquarela_SEM_NOME_2023_11_27_16h_57m_34s_23giKD_gio.jpg

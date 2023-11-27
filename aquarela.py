@@ -401,6 +401,7 @@ def component_brain_wave(data):
 def component_parrot(data):
 	print('parrot:', data)
 	print("--Parrot Conectado--")
+	emit('send_emotion_brainwave',data,namespace='/desenho')
 	emit('join_component_aquarela',data, namespace='/remotep')
 
 @socket_io.on('feedback_parrot',namespace='/desenho')
